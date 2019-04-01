@@ -1,5 +1,5 @@
 package main
-
+//fmt is a "Format package for Go"
 import (
 	"fmt"
 )
